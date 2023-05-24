@@ -21,4 +21,7 @@ samples, guidance on mobile development, and a full API reference.
   <img src = "https://github.com/bhardwajpriyanka/income_expense/assets/121473709/8d86601b-21dc-4ad0-a2d0-2f71a8ed2a1b" width=22% height=35%>
   <img src = "https://github.com/bhardwajpriyanka/income_expense/assets/121473709/102a993c-25e5-4321-889a-d56b54efcc73" width=22% height=35%>
   <img src = "https://github.com/bhardwajpriyanka/income_expense/assets/121473709/a2f709b0-b8a2-44b9-9dac-6c53ee82c0ae" width=22% height=35%>
+  <img src = "https://github.com/bhardwajpriyanka/income_expense/assets/121473709/2d769ad3-3253-4f9c-a3a2-1b1e2559fb3d" width=22% height=35%>
+  <img src = "https://github.com/bhardwajpriyanka/income_expense/assets/121473709/34a1af8a-3721-4add-9abb-c7a5413da647" width=22% height=35%>
 </p>
+
